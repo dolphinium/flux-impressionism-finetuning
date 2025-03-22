@@ -1,0 +1,44 @@
+# .cursorrules for Flux Impressionism Fine-Tuning Project
+
+## Project Structure
+- Use notebooks/ directory for all Jupyter notebooks
+- Use src/ directory for reusable Python modules
+- Use data/ directory for dataset management scripts
+- Use docs/ directory for documentation beyond the memory bank
+- Use results/ directory for storing generated images and evaluation results
+
+## Code Organization
+- Implement modular design with clear separation of concerns
+- Maintain consistent naming conventions (snake_case for functions/variables, PascalCase for classes)
+- Add docstrings to all functions and classes
+- Include type hints for improved code readability
+
+## Development Workflow
+- Develop and test in Google Colab environment
+- Keep Memory Bank updated with all major decisions and progress
+- Commit code with descriptive messages following conventional commits format
+- Document all hyperparameters and their effects
+
+## Training Practices
+- Save checkpoints at regular intervals to prevent data loss from runtime disconnections
+- Log all training metrics using TensorBoard
+- Generate sample images periodically during training for visual inspection
+- Use learning rate scheduling for stable training
+
+## Model Management
+- Version all models with clear naming convention (flux-impressionism-v{version})
+- Document model performance metrics for each version
+- Store model cards with all relevant information for each version
+- Include sample images in model documentation
+
+## Data Handling
+- Validate data quality before training
+- Apply consistent preprocessing across training and inference
+- Document data filtering criteria
+- Track dataset statistics for reproducibility
+
+## Evaluation Standards
+- Use both quantitative metrics (FID, CLIP score) and qualitative assessment
+- Compare against baseline (untuned) model for all evaluations
+- Document evaluation methodology thoroughly
+- Include diverse prompts in evaluation set 
