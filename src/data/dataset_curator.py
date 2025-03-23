@@ -94,12 +94,17 @@ class DatasetCurator:
                 
             # Validate image
             try:
-                image = Image.open(io.BytesIO(example["image"]["bytes"]))
-                if not self.validate_image(image):
+                # The image is already a PIL Image object in the dataset
+                if not self.validate_image(example["image"]):
                     continue
                     
                 # Store the example
-                selected_examples[genre_id].append(example)
+                selected_examples[genre_id].append({
+                    "image": example["image"],
+                    "artist": example["artist"],
+                    "genre": example["genre"],
+                    "style": example["style"]
+                })
                 
                 # Log progress
                 total_selected = sum(len(examples) for examples in selected_examples.values())
