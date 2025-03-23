@@ -16,6 +16,27 @@ This project fine-tunes the Flux.1 Dev model to generate images in the style of 
 - Visual showcase demonstrating the model's capabilities
 - Reusable code for similar fine-tuning projects
 
+## Dataset
+
+I've created a carefully curated subset of the WikiArt dataset, specifically focused on Impressionist paintings. The dataset is available on Hugging Face Hub:
+
+🤗 [wikiart-impressionism-curated](https://huggingface.co/datasets/dolphinium/wikiart-impressionism-curated)
+
+### Dataset Features
+- 1,000 high-quality Impressionist paintings
+- Balanced genre distribution:
+  - Landscapes (30%)
+  - Portraits (30%)
+  - Urban Scenes (20%)
+  - Still Life (20%)
+- Quality criteria:
+  - Minimum dimension: 512px
+  - Maximum aspect ratio: 2:1
+  - Quality-controlled file sizes
+  - Verified Impressionist style 
+
+Check dataset curation notebook [here](https://github.com/dolphinium/flux-impressionism-finetuning/blob/main/notebooks/dataset_curation.ipynb)
+
 ## Getting Started
 
 ### Prerequisites
@@ -99,4 +120,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - [Hugging Face](https://huggingface.co/) for their diffusers library and infrastructure
 - [WikiArt](https://www.wikiart.org/) for the dataset
-- The creators of the Flux.1 Dev model 
+- The creators of the Flux.1 Dev model
+
