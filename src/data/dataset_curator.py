@@ -68,7 +68,7 @@ class DatasetCurator:
             Dataset: Curated dataset
         """
         logger.info("Loading WikiArt dataset...")
-        dataset = load_dataset("gigant/WikiArt", streaming=True)
+        dataset = load_dataset("huggan/wikiart", streaming=True)
         
         # Initialize storage for selected examples
         selected_examples = {genre_id: [] for genre_id in self.target_counts.keys()}
