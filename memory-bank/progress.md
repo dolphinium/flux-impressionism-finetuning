@@ -1,7 +1,19 @@
 # Progress: Flux Impressionism Fine-Tuning
 
 ## Current Status
-Project has completed dataset preparation and upload phase. Key progress:
+Project has completed initial fine-tuning phase using ai-toolkit. Key progress:
+
+### Initial Fine-tuning Complete ✅
+- Successfully fine-tuned Flux model for 1250 steps using ai-toolkit
+- Model uploaded to Hugging Face Hub: [flux_1_dev_wikiart_impressionism](https://huggingface.co/dolphinium/flux_1_dev_wikiart_impressionism)
+- Fine-tuning notebook created and documented
+- Inference implementation completed with example code
+
+### Dataset & Captioning Improvements (Planned)
+- Current caption generation approach identified as suboptimal
+- Planning to implement automated caption generation using Gemini API
+- Will update dataset with improved captions
+- Planning to add trigger words during fine-tuning
 
 ### Dataset Creation & Upload ✅
 - Successfully created curated Impressionism dataset
@@ -77,6 +89,10 @@ Identified key features to capture in fine-tuning:
   - ✅ Genre-based filtering
   - ✅ Dataset uploaded to Hugging Face Hub
   - ✅ Dataset card created and published
+- Initial fine-tuning completed using ai-toolkit ✅
+- Model deployed to Hugging Face Hub: [flux_1_dev_wikiart_impressionism](https://huggingface.co/dolphinium/flux_1_dev_wikiart_impressionism) ✅
+- Fine-tuning notebook documented ✅
+- Basic inference implementation complete ✅
 
 ## What's Left to Build
 1. **Research & Planning**:
@@ -125,7 +141,24 @@ Identified key features to capture in fine-tuning:
    - [ ] Results analysis and showcase
    - [ ] User guide for the deployed model
 
+1. **Dataset Improvements**:
+   - [ ] Implement Gemini API integration for caption generation
+   - [ ] Create robust system prompt for caption generation
+   - [ ] Update dataset with improved captions
+   - [ ] Add trigger words to fine-tuning process
+
+2. **Custom Implementation**:
+   - [ ] Develop custom fine-tuning pipeline
+   - [ ] Implement detailed training monitoring
+   - [ ] Add advanced hyperparameter optimization
+   - [ ] Create comprehensive evaluation metrics
+
 ## Known Issues
+- Current caption generation approach is static and limited
+- Need to implement more dynamic caption generation with Gemini API
+- Need to add trigger words for better style control
+- Current implementation relies too heavily on ai-toolkit
+- Need more control over fine-tuning process through custom implementation
 - Need to determine optimal LoRA rank and alpha values for style transfer
 - Need to establish evaluation metrics for artistic quality
 - Need to define data filtering criteria for WikiArt dataset

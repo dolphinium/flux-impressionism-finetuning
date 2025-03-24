@@ -103,28 +103,30 @@ This document outlines the planned timeline and milestones for fine-tuning the F
 
 ## Phase 2: Model Development & Fine-Tuning (Week 3-4)
 
-### Week 3: Initial Model Development
-- [ ] Set up base Flux.1 Dev model
-- [ ] Implement LoRA fine-tuning approach
-- [ ] Develop training script with logging and checkpointing
-- [ ] Run initial experiments with small subset of data
-- [ ] Analyze and debug any issues
+### Week 3: Initial Model Development ✅
+- [x] Set up base Flux.1 Dev model
+- [x] Implement initial fine-tuning using ai-toolkit
+- [x] Complete 1250 training steps
+- [x] Upload model to Hugging Face Hub
+- [x] Create and document fine-tuning notebook
+- [x] Implement basic inference pipeline
 
-### Week 4: Full Fine-Tuning
-- [ ] Fine-tune model with complete dataset
-- [ ] Monitor training metrics and sample generation
-- [ ] Implement hyperparameter optimization
-- [ ] Generate intermediate results for review
-- [ ] Save and document model checkpoints
-
-## Phase 3: Evaluation & Optimization (Week 5)
-
-### Week 5: Model Evaluation & Refinement
+### Week 4: Advanced Implementation
+- [ ] Design custom fine-tuning pipeline
+- [ ] Implement Gemini API integration for caption generation
+- [ ] Create robust system prompt for captions
+- [ ] Add trigger words support
+- [ ] Develop detailed training monitoring
 - [ ] Implement comprehensive evaluation metrics
-- [ ] Compare fine-tuned model against baseline
-- [ ] Generate diverse sample images
-- [ ] Refine model based on evaluation results
-- [ ] Optimize model for deployment (if needed)
+
+## Phase 3: Dataset Improvement & Refinement (Week 5)
+
+### Week 5: Dataset Enhancement
+- [ ] Generate improved captions using Gemini API
+- [ ] Update dataset with new captions
+- [ ] Add trigger words to training data
+- [ ] Validate and test updated dataset
+- [ ] Document caption generation methodology
 
 ## Phase 4: Deployment & Documentation (Week 6)
 
@@ -137,9 +139,11 @@ This document outlines the planned timeline and milestones for fine-tuning the F
 
 ## Key Milestones
 
-1. **Research Complete**: Understanding of Impressionist style and fine-tuning approaches
-2. **Data Pipeline Ready**: Preprocessed dataset ready for training
-3. **Initial Model**: First working version of fine-tuned model
-4. **Refined Model**: Optimized model with good style transfer capability
-5. **Deployed Solution**: Model accessible via Hugging Face Hub and Spaces demo
-6. **Project Documentation**: Complete documentation of project methodology and results 
+1. **Research Complete**: ✅ Understanding of Impressionist style and fine-tuning approaches
+2. **Data Pipeline Ready**: ✅ Preprocessed dataset ready for training
+3. **Initial Model**: ✅ First working version of fine-tuned model using ai-toolkit
+4. **Dataset Enhancement**: Improved captions and trigger words implementation
+5. **Custom Implementation**: Development of in-house fine-tuning pipeline
+6. **Refined Model**: Advanced version with custom implementation
+7. **Deployed Solution**: Model accessible via Hugging Face Hub and Spaces demo
+8. **Project Documentation**: Complete documentation of project methodology and results 

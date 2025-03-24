@@ -1,0 +1,77 @@
+# Model Configuration
+model:
+  name: "flux-1-dev"
+  pretrained_model_name_or_path: "black-forest-labs/FLUX.1-dev"
+  revision: "main"
+  torch_dtype: "bfloat16"
+
+# LoRA Configuration
+lora:
+  rank: 16
+  alpha: 32.0
+  target_modules: [
+    "q_proj",
+    "k_proj",
+    "v_proj",
+    "out_proj",
+    "fc1",
+    "fc2"
+  ]
+  bias: "none"
+  lora_dropout: 0.1
+
+# Training Configuration
+training:
+  seed: 42
+  resolution: 1024
+  train_batch_size: 1
+  gradient_accumulation_steps: 4
+  learning_rate: 0.0001
+  lr_scheduler: "cosine"
+  lr_warmup_steps: 100
+  num_train_epochs: 50
+  max_train_steps: 1000
+  checkpointing_steps: 100
+  validation_steps: 50
+  save_total_limit: 3
+
+# Dataset Configuration
+dataset:
+  name: "dolphinium/wikiart-impressionism-curated"
+  image_column: "image"
+  genre_mapping: {
+    4: "landscape",
+    6: "portrait",
+    1: "urban_scene",
+    9: "still_life"
+  }
+  max_train_samples: 1000
+  streaming:
+    enabled: true
+    num_shards: 16
+    buffer_size: 1000
+
+# Optimizer Configuration
+optimizer:
+  name: "AdamW"
+  weight_decay: 0.01
+  beta1: 0.9
+  beta2: 0.999
+  epsilon: 1.0e-8
+
+# Mixed Precision Training
+mixed_precision:
+  enabled: true
+  dtype: "bfloat16"
+
+# System Configuration
+system:
+  mixed_precision: true
+  gradient_checkpointing: true
+  full_determinism: false
+
+# Output Configuration
+output:
+  output_dir: "outputs"
+  logging_dir: "logs"
+  report_to: "tensorboard" 

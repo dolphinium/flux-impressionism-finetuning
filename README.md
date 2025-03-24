@@ -8,6 +8,13 @@
 
 This project fine-tunes the Flux.1 Dev model to generate images in the style of Impressionist paintings. By training on the WikiArt dataset's Impressionism subset, we create a specialized model that captures the distinctive aesthetic qualities of Impressionist art while maintaining the flexibility of a general text-to-image model.
 
+### Current Status
+- ✅ Initial fine-tuning completed (1250 steps)
+- ✅ Model deployed to Hugging Face Hub: [flux_1_dev_wikiart_impressionism](https://huggingface.co/dolphinium/flux_1_dev_wikiart_impressionism)
+- ✅ Basic inference implementation
+- 🔄 Planning improvements for caption generation using Gemini API
+- 🔄 Developing custom fine-tuning implementation
+
 ## Features
 
 - Fine-tuned Flux.1 Dev model specialized in Impressionist styles
@@ -73,11 +80,19 @@ flux-impressionism-finetuning/
 
 This project follows a structured approach to fine-tuning:
 
-1. **Research & Planning**: Understanding Impressionist style and fine-tuning techniques
-2. **Data Preparation**: Processing the WikiArt Impressionism dataset
-3. **Model Development**: Fine-tuning Flux.1 Dev with optimized parameters
-4. **Evaluation**: Assessing quality through objective and subjective metrics
-5. **Deployment**: Making the model accessible through Hugging Face
+1. **Research & Planning**: ✅ Understanding Impressionist style and fine-tuning techniques
+2. **Data Preparation**: ✅ Processing the WikiArt Impressionism dataset
+3. **Initial Fine-tuning**: ✅ First iteration using ai-toolkit (1250 steps)
+4. **Dataset Enhancement**: 🔄 Improving captions using Gemini API
+5. **Custom Implementation**: 🔄 Developing in-house fine-tuning pipeline
+6. **Evaluation**: Assessing quality through objective and subjective metrics
+7. **Deployment**: Making the model accessible through Hugging Face
+
+### Upcoming Improvements
+- Implementing automated caption generation using Gemini API
+- Adding trigger words for better style control
+- Developing custom fine-tuning pipeline for better control
+- Enhancing evaluation metrics and monitoring
 
 For detailed timeline, see [ROADMAP.md](ROADMAP.md).
 
@@ -88,10 +103,23 @@ Once deployed, you can use the model in two ways:
 ### Via Hugging Face Hub
 
 ```python
-from diffusers import DiffusionPipeline
+from diffusers import StableDiffusionPipeline
+import torch
 
-pipeline = DiffusionPipeline.from_pretrained("dolphinium/flux-impressionism-v1")
-image = pipeline("A landscape with trees by a river").images[0]
+model_id = "black-forest-labs/FLUX.1-dev"
+lora_model_path = "dolphinium/flux_1_dev_wikiart_impressionism"
+
+pipe = StableDiffusionPipeline.from_pretrained(
+    model_id,
+    torch_dtype=torch.float16
+).to("cuda")
+
+# Load LoRA weights
+pipe.unet.load_attn_procs(lora_model_path)
+
+# Generate image
+prompt = "an impressionist style landscape with rolling hills and autumn trees"
+image = pipe(prompt).images[0]
 image.save("impressionist_landscape.png")
 ```
 
