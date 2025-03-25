@@ -1,0 +1,1311 @@
+2025-03-25 04:01:49,187 - INFO - Loading dataset...
+2025-03-25 04:01:52,765 - INFO - Dataset loaded successfully with 1000 images
+2025-03-25 04:01:52,766 - INFO - Starting from index 0
+2025-03-25 04:01:52,766 - INFO - Found 3 API keys
+2025-03-25 04:02:24,134 - INFO - Processed batch 1/101
+2025-03-25 04:02:49,556 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 10
+}
+]
+2025-03-25 04:02:49,878 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 10
+}
+]
+2025-03-25 04:02:50,273 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 9
+}
+]
+2025-03-25 04:02:51,299 - INFO - Processed batch 2/101
+2025-03-25 04:03:25,236 - INFO - Processed batch 3/101
+2025-03-25 04:03:55,855 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 4
+}
+]
+2025-03-25 04:03:56,625 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 3
+}
+]
+2025-03-25 04:03:56,652 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 3
+}
+]
+2025-03-25 04:03:57,099 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 2
+}
+]
+2025-03-25 04:03:57,190 - INFO - Processed batch 4/101
+2025-03-25 04:04:30,492 - INFO - Processed batch 5/101
+2025-03-25 04:04:59,814 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+}
+]
+2025-03-25 04:05:00,195 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 59
+}
+]
+2025-03-25 04:05:01,833 - INFO - Processed batch 6/101
+2025-03-25 04:05:34,139 - INFO - Processed batch 7/101
+2025-03-25 04:06:01,093 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 58
+}
+]
+2025-03-25 04:06:01,283 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 58
+}
+]
+2025-03-25 04:06:01,997 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 57
+}
+]
+2025-03-25 04:06:02,643 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 57
+}
+]
+2025-03-25 04:06:02,925 - INFO - Processed batch 8/101
+2025-03-25 04:06:35,142 - INFO - Processed batch 9/101
+2025-03-25 04:07:04,668 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 55
+}
+]
+2025-03-25 04:07:05,318 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 54
+}
+]
+2025-03-25 04:07:05,858 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 54
+}
+]
+2025-03-25 04:07:08,230 - INFO - Processed batch 10/101
+2025-03-25 04:07:41,749 - INFO - Processed batch 11/101
+2025-03-25 04:08:09,928 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 50
+}
+]
+2025-03-25 04:08:10,404 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 49
+}
+]
+2025-03-25 04:08:11,484 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 48
+}
+]
+2025-03-25 04:08:11,509 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 48
+}
+]
+2025-03-25 04:08:11,512 - INFO - Processed batch 12/101
+2025-03-25 04:08:45,804 - INFO - Processed batch 13/101
+2025-03-25 04:09:20,000 - INFO - Processed batch 14/101
+2025-03-25 04:09:52,657 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 7
+}
+]
+2025-03-25 04:09:53,133 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 6
+}
+]
+2025-03-25 04:09:54,493 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 5
+}
+]
+2025-03-25 04:09:55,131 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 4
+}
+]
+2025-03-25 04:09:55,145 - INFO - Processed batch 15/101
+2025-03-25 04:10:28,096 - INFO - Processed batch 16/101
+2025-03-25 04:11:02,186 - INFO - Processed batch 17/101
+2025-03-25 04:11:39,120 - INFO - Processed batch 18/101
+2025-03-25 04:12:16,541 - INFO - Processed batch 19/101
+2025-03-25 04:12:44,639 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 15
+}
+]
+2025-03-25 04:12:45,170 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 14
+}
+]
+2025-03-25 04:12:45,317 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 14
+}
+]
+2025-03-25 04:12:46,466 - INFO - Processed batch 20/101
+2025-03-25 04:13:00,818 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 59
+}
+]
+2025-03-25 04:13:05,106 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 54
+}
+]
+2025-03-25 04:13:18,998 - INFO - Processed batch 21/101
+2025-03-25 04:13:50,596 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 9
+}
+]
+2025-03-25 04:13:50,855 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 9
+}
+]
+2025-03-25 04:13:51,984 - INFO - Processed batch 22/101
+2025-03-25 04:14:25,694 - INFO - Processed batch 23/101
+2025-03-25 04:14:52,312 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 7
+}
+]
+2025-03-25 04:14:52,658 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 7
+}
+]
+2025-03-25 04:14:53,873 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 6
+}
+]
+2025-03-25 04:14:54,168 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 5
+}
+]
+2025-03-25 04:14:54,174 - INFO - Processed batch 24/101
+2025-03-25 04:15:27,862 - INFO - Processed batch 25/101
+2025-03-25 04:15:58,133 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 1
+}
+]
+2025-03-25 04:15:59,056 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+}
+]
+2025-03-25 04:15:59,958 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+}
+]
+2025-03-25 04:16:00,082 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 59
+}
+]
+2025-03-25 04:16:00,095 - INFO - Processed batch 26/101
+2025-03-25 04:16:32,900 - INFO - Processed batch 27/101
+2025-03-25 04:17:01,979 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 58
+}
+]
+2025-03-25 04:17:02,193 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 57
+}
+]
+2025-03-25 04:17:03,278 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 56
+}
+]
+2025-03-25 04:17:03,618 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 56
+}
+]
+2025-03-25 04:17:03,626 - INFO - Processed batch 28/101
+2025-03-25 04:17:37,627 - INFO - Processed batch 29/101
+2025-03-25 04:18:09,980 - INFO - Processed batch 30/101
+2025-03-25 04:18:40,053 - INFO - Processed batch 31/101
+2025-03-25 04:19:05,221 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 54
+}
+]
+2025-03-25 04:19:09,080 - INFO - Processed batch 32/101
+2025-03-25 04:19:37,699 - INFO - Processed batch 33/101
+2025-03-25 04:20:05,698 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 54
+}
+]
+2025-03-25 04:20:05,779 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 54
+}
+]
+2025-03-25 04:20:05,858 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 54
+}
+]
+2025-03-25 04:20:07,885 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 52
+}
+]
+2025-03-25 04:20:10,108 - INFO - Processed batch 34/101
+2025-03-25 04:20:44,046 - INFO - Processed batch 35/101
+2025-03-25 04:21:19,283 - INFO - Processed batch 36/101
+2025-03-25 04:21:49,445 - INFO - Processed batch 37/101
+2025-03-25 04:22:27,901 - INFO - Processed batch 38/101
+2025-03-25 04:22:59,053 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+}
+]
+2025-03-25 04:22:59,136 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+}
+]
+2025-03-25 04:22:59,680 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+}
+]
+2025-03-25 04:22:59,811 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+}
+]
+2025-03-25 04:23:00,552 - INFO - Processed batch 39/101
+2025-03-25 04:23:31,088 - INFO - Processed batch 40/101
+2025-03-25 04:24:02,857 - INFO - Processed batch 41/101
+2025-03-25 04:24:32,228 - INFO - Processed batch 42/101
+2025-03-25 04:25:01,973 - INFO - Processed batch 43/101
+2025-03-25 04:25:28,218 - INFO - Processed batch 44/101
+2025-03-25 04:26:01,825 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 58
+}
+]
+2025-03-25 04:26:02,257 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 57
+}
+]
+2025-03-25 04:26:02,366 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 57
+}
+]
+2025-03-25 04:26:02,849 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 57
+}
+]
+2025-03-25 04:26:03,582 - INFO - Processed batch 45/101
+2025-03-25 04:26:39,481 - INFO - Processed batch 46/101
+2025-03-25 04:27:12,725 - INFO - Processed batch 47/101
+2025-03-25 04:27:39,871 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 20
+}
+]
+2025-03-25 04:27:40,316 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 19
+}
+]
+2025-03-25 04:27:40,590 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 19
+}
+]
+2025-03-25 04:27:41,756 - INFO - Processed batch 48/101
+2025-03-25 04:28:08,727 - INFO - Processed batch 49/101
+2025-03-25 04:28:37,762 - INFO - Processed batch 50/101
+2025-03-25 04:29:11,416 - INFO - Processed batch 51/101
+2025-03-25 04:29:42,492 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 17
+}
+]
+2025-03-25 04:29:44,433 - INFO - Processed batch 52/101
+2025-03-25 04:30:15,154 - INFO - Processed batch 53/101
+2025-03-25 04:30:41,566 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 18
+}
+]
+2025-03-25 04:30:41,917 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 18
+}
+]
+2025-03-25 04:30:41,940 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 18
+}
+]
+2025-03-25 04:30:43,063 - INFO - Processed batch 54/101
+2025-03-25 04:31:08,604 - INFO - Processed batch 55/101
+2025-03-25 04:31:36,576 - INFO - Processed batch 56/101
+2025-03-25 04:32:00,712 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 59
+}
+]
+2025-03-25 04:32:00,773 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 59
+}
+]
+2025-03-25 04:32:01,293 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 58
+}
+]
+2025-03-25 04:32:01,605 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 58
+}
+]
+2025-03-25 04:32:01,950 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 58
+}
+]
+2025-03-25 04:32:01,963 - INFO - Processed batch 57/101
+2025-03-25 04:32:31,258 - INFO - Processed batch 58/101
+2025-03-25 04:33:03,272 - INFO - Processed batch 59/101
+2025-03-25 04:33:34,680 - INFO - Processed batch 60/101
+2025-03-25 04:34:06,038 - INFO - Processed batch 61/101
+2025-03-25 04:34:43,567 - INFO - Processed batch 62/101
+2025-03-25 04:35:21,850 - INFO - Processed batch 63/101
+2025-03-25 04:35:53,195 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 6
+}
+]
+2025-03-25 04:35:53,229 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 6
+}
+]
+2025-03-25 04:35:53,308 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 6
+}
+]
+2025-03-25 04:35:53,588 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 6
+}
+]
+2025-03-25 04:35:53,856 - INFO - Processed batch 64/101
+2025-03-25 04:36:24,198 - INFO - Processed batch 65/101
+2025-03-25 04:36:52,688 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 7
+}
+]
+2025-03-25 04:36:52,750 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 7
+}
+]
+2025-03-25 04:36:52,902 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 7
+}
+]
+2025-03-25 04:36:53,062 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 6
+}
+]
+2025-03-25 04:36:54,106 - INFO - Processed batch 66/101
+2025-03-25 04:37:24,414 - INFO - Processed batch 67/101
+2025-03-25 04:37:50,898 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 9
+}
+]
+2025-03-25 04:37:51,633 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 8
+}
+]
+2025-03-25 04:37:51,727 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 8
+}
+]
+2025-03-25 04:37:51,852 - INFO - Processed batch 68/101
+2025-03-25 04:38:23,629 - INFO - Processed batch 69/101
+2025-03-25 04:38:55,354 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 4
+}
+]
+2025-03-25 04:38:56,176 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 3
+}
+]
+2025-03-25 04:38:57,065 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 2
+}
+]
+2025-03-25 04:38:57,296 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 2
+}
+]
+2025-03-25 04:38:57,315 - INFO - Processed batch 70/101
+2025-03-25 04:39:33,477 - INFO - Processed batch 71/101
+2025-03-25 04:40:07,172 - INFO - Processed batch 72/101
+2025-03-25 04:40:37,203 - INFO - Processed batch 73/101
+2025-03-25 04:41:04,914 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 55
+}
+]
+2025-03-25 04:41:05,397 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 54
+}
+]
+2025-03-25 04:41:05,831 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 54
+}
+]
+2025-03-25 04:41:06,710 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 53
+}
+]
+2025-03-25 04:41:06,726 - INFO - Processed batch 74/101
+2025-03-25 04:41:20,722 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 39
+}
+]
+2025-03-25 04:41:42,338 - INFO - Processed batch 75/101
+2025-03-25 04:42:10,417 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 49
+}
+]
+2025-03-25 04:42:11,092 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 48
+}
+]
+2025-03-25 04:42:11,200 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 48
+}
+]
+2025-03-25 04:42:11,285 - INFO - Processed batch 76/101
+2025-03-25 04:42:43,144 - INFO - Processed batch 77/101
+2025-03-25 04:43:21,499 - INFO - Processed batch 78/101
+2025-03-25 04:43:55,290 - INFO - Processed batch 79/101
+2025-03-25 04:44:35,360 - INFO - Processed batch 80/101
+2025-03-25 04:45:06,490 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 53
+}
+]
+2025-03-25 04:45:07,250 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 52
+}
+]
+2025-03-25 04:45:08,447 - INFO - Processed batch 81/101
+2025-03-25 04:45:41,012 - INFO - Processed batch 82/101
+2025-03-25 04:46:11,298 - INFO - Processed batch 83/101
+2025-03-25 04:46:39,792 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 20
+}
+]
+2025-03-25 04:46:40,323 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 19
+}
+]
+2025-03-25 04:46:40,367 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 19
+}
+]
+2025-03-25 04:46:41,101 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 18
+}
+]
+2025-03-25 04:46:41,728 - INFO - Processed batch 84/101
+2025-03-25 04:47:13,955 - INFO - Processed batch 85/101
+2025-03-25 04:47:47,811 - INFO - Processed batch 86/101
+2025-03-25 04:48:11,977 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 47
+}
+]
+2025-03-25 04:48:13,184 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 46
+}
+]
+2025-03-25 04:48:13,442 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 46
+}
+]
+2025-03-25 04:48:15,838 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 44
+}
+]
+2025-03-25 04:48:15,856 - INFO - Processed batch 87/101
+2025-03-25 04:48:48,676 - INFO - Processed batch 88/101
+2025-03-25 04:49:22,156 - INFO - Processed batch 89/101
+2025-03-25 04:49:55,644 - INFO - Processed batch 90/101
+2025-03-25 04:50:27,646 - INFO - Processed batch 91/101
+2025-03-25 04:51:05,655 - INFO - Processed batch 92/101
+2025-03-25 04:51:38,748 - INFO - Processed batch 93/101
+2025-03-25 04:52:01,415 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 58
+}
+]
+2025-03-25 04:52:01,432 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 58
+}
+]
+2025-03-25 04:52:01,488 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 58
+}
+]
+2025-03-25 04:52:04,447 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 55
+}
+]
+2025-03-25 04:52:04,467 - INFO - Processed batch 94/101
+2025-03-25 04:52:31,695 - INFO - Processed batch 95/101
+2025-03-25 04:53:02,469 - INFO - Processed batch 96/101
+2025-03-25 04:53:28,737 - INFO - Processed batch 97/101
+2025-03-25 04:53:51,231 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 8
+}
+]
+2025-03-25 04:53:53,107 - INFO - Processed batch 98/101
+2025-03-25 04:54:02,171 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 57
+}
+]
+2025-03-25 04:54:07,910 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 52
+}
+]
+2025-03-25 04:54:08,138 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 51
+}
+]
+2025-03-25 04:54:14,680 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 45
+}
+]
+2025-03-25 04:54:16,145 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 43
+}
+]
+2025-03-25 04:54:16,252 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 43
+}
+]
+2025-03-25 04:54:17,442 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 42
+}
+]
+2025-03-25 04:54:18,053 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 41
+}
+]
+2025-03-25 04:54:18,209 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 41
+}
+]
+2025-03-25 04:54:18,699 - ERROR - Error generating caption: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 41
+}
+]
+2025-03-25 04:54:18,720 - INFO - Processed batch 99/101
+2025-03-25 04:54:46,990 - INFO - Processed batch 100/101
+2025-03-25 04:54:47,002 - INFO - Pipeline completed successfully
+2025-03-25 04:58:38,930 - INFO - Collecting failed captions...
+2025-03-25 04:58:38,934 - INFO - Found 116 failed captions to fix
+2025-03-25 04:58:43,069 - INFO - Processing batch 1/39
+2025-03-25 04:59:59,471 - INFO - Processing batch 2/39
+2025-03-25 05:00:51,257 - INFO - Fix process interrupted by user
+2025-03-25 05:01:17,244 - INFO - Collecting failed captions...
+2025-03-25 05:01:17,247 - INFO - Found 116 failed captions to fix
+2025-03-25 05:01:22,145 - INFO - Processing batch 1/39
+2025-03-25 05:01:44,783 - INFO - Processing batch 2/39
+2025-03-25 05:01:46,983 - INFO - Fix process interrupted by user
+2025-03-25 05:02:04,396 - INFO - Collecting failed captions...
+2025-03-25 05:02:04,399 - INFO - Found 116 failed captions to fix
+2025-03-25 05:02:08,202 - INFO - Processing batch 1/39
+2025-03-25 05:02:20,278 - INFO - Processing batch 2/39
+2025-03-25 05:02:34,221 - INFO - Processing batch 3/39
+2025-03-25 05:02:48,216 - INFO - Processing batch 4/39
+2025-03-25 05:03:02,139 - INFO - Processing batch 5/39
+2025-03-25 05:03:18,431 - INFO - Processing batch 6/39
+2025-03-25 05:03:33,201 - INFO - Processing batch 7/39
+2025-03-25 05:03:49,361 - INFO - Processing batch 8/39
+2025-03-25 05:04:04,398 - INFO - Processing batch 9/39
+2025-03-25 05:04:18,094 - INFO - Processing batch 10/39
+2025-03-25 05:04:33,381 - INFO - Processing batch 11/39
+2025-03-25 05:04:47,205 - INFO - Processing batch 12/39
+2025-03-25 05:05:02,363 - INFO - Processing batch 13/39
+2025-03-25 05:05:18,129 - INFO - Processing batch 14/39
+2025-03-25 05:05:32,337 - INFO - Processing batch 15/39
+2025-03-25 05:05:45,269 - INFO - Processing batch 16/39
+2025-03-25 05:05:57,986 - INFO - Processing batch 17/39
+2025-03-25 05:06:09,762 - INFO - Processing batch 18/39
+2025-03-25 05:06:25,367 - INFO - Processing batch 19/39
+2025-03-25 05:06:39,991 - INFO - Processing batch 20/39
+2025-03-25 05:06:54,479 - INFO - Processing batch 21/39
+2025-03-25 05:07:08,584 - INFO - Processing batch 22/39
+2025-03-25 05:07:21,079 - INFO - Processing batch 23/39
+2025-03-25 05:07:33,982 - INFO - Processing batch 24/39
+2025-03-25 05:07:47,034 - INFO - Processing batch 25/39
+2025-03-25 05:08:01,196 - INFO - Processing batch 26/39
+2025-03-25 05:08:15,029 - INFO - Processing batch 27/39
+2025-03-25 05:08:30,206 - INFO - Processing batch 28/39
+2025-03-25 05:08:49,144 - INFO - Processing batch 29/39
+2025-03-25 05:09:05,923 - INFO - Processing batch 30/39
+2025-03-25 05:09:19,174 - INFO - Processing batch 31/39
+2025-03-25 05:09:34,506 - INFO - Processing batch 32/39
+2025-03-25 05:09:49,669 - INFO - Processing batch 33/39
+2025-03-25 05:10:03,387 - INFO - Processing batch 34/39
+2025-03-25 05:10:19,049 - INFO - Processing batch 35/39
+2025-03-25 05:10:34,002 - INFO - Processing batch 36/39
+2025-03-25 05:10:48,156 - INFO - Processing batch 37/39
+2025-03-25 05:11:00,733 - INFO - Processing batch 38/39
+2025-03-25 05:11:13,118 - INFO - Processing batch 39/39
+2025-03-25 05:11:21,306 - INFO - Creating final merged dataset...
+2025-03-25 05:11:21,336 - INFO - Fixed dataset saved to output/final_dataset/dataset_with_fixed_captions.json

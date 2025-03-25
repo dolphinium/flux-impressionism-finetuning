@@ -1,0 +1,8 @@
+google-generativeai
+datasets
+aiohttp
+pillow
+pandas
+tqdm
+python-dotenv
+huggingface-hub

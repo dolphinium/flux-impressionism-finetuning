@@ -1,0 +1,5 @@
+.env*
+src/image2caption/output/checkpoints
+src/image2caption/output/intermediate
+src/image2caption/output/fixed
+__pycache__
