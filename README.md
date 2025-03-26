@@ -192,6 +192,36 @@ Comprehensive documentation is available in the [docs/](docs/) directory, includ
 - Evaluation results
 - Usage guides
 
+## Tools & Technologies
+
+### Core Technologies
+- **Flux.1 Dev**: Base model for fine-tuning
+- **AI-Toolkit**: Primary training framework
+- **Python**: Primary programming language
+- **PyTorch**: Deep learning framework
+- **Hugging Face Diffusers**: For working with diffusion models
+- **PEFT**: Parameter-Efficient Fine-Tuning library
+- **Google Gemini API**: For advanced image captioning
+
+### Development & Training
+- **Google Colab Pro**: Primary development environment with GPU access
+- **Git/GitHub**: Version control and project management
+- **Jupyter Notebooks**: Interactive development and experimentation
+- **Hugging Face Hub**: Model storage and versioning
+- **Hugging Face Spaces**: Deployment and demonstration
+
+### Data Processing & Management
+- **WikiArt Dataset**: Source of Impressionist paintings
+- **Pandas/NumPy**: Data manipulation and processing
+- **Pillow/OpenCV**: Image processing
+- **Datasets**: Hugging Face library for dataset management
+- **aiohttp/asyncio**: Async processing for image captioning
+
+### Visualization & Evaluation
+- **Tensorboard**: Training metrics visualization
+- **Matplotlib/Seaborn**: Result visualization
+- **Gradio**: Interactive demo creation
+
 ## Contributing
 
 This project is currently in development. Contributions and suggestions are welcome through issues and pull requests.
