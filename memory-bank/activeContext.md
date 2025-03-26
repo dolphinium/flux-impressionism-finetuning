@@ -1,54 +1,60 @@
 # Active Context: Flux Impressionism Fine-Tuning
 
 ## Current Work Focus
-We have completed the dataset preparation phase and successfully uploaded the curated dataset to Hugging Face Hub. The focus is now shifting to:
+We have completed the image captioning pipeline and are preparing for the next fine-tuning iteration. The focus is now on:
 
-1. Setting up the training pipeline
-2. Implementing model fine-tuning infrastructure
-3. Developing evaluation metrics
-4. Preparing monitoring systems
+1. Analyzing caption quality and coverage
+2. Preparing for fine-tuning with enhanced captions
+3. Developing custom training pipeline
+4. Implementing evaluation metrics
 
 ## Recent Changes
-- ✅ Completed dataset curation pipeline
-- ✅ Successfully processed and validated 1,000 images
-- ✅ Uploaded dataset to Hugging Face Hub
-- ✅ Created comprehensive dataset documentation
-- ✅ Updated project documentation
+- ✅ Completed image captioning pipeline with Gemini API
+- ✅ Implemented robust error handling and retry system
+- ✅ Added checkpoint and logging mechanisms
+- ✅ Integrated with HuggingFace datasets
+- ✅ Created comprehensive documentation
 
 ## Next Steps
-1. **Training Setup**:
-   - Configure model loading and initialization
-   - Set up LoRA adaptation layers
-   - Implement training loop
-   - Configure checkpointing
+1. **Caption Analysis**:
+   - Review generated captions for quality
+   - Validate genre-specific descriptions
+   - Assess coverage and completeness
+   - Identify areas for improvement
 
-2. **Evaluation System**:
-   - Define quantitative metrics
-   - Set up qualitative evaluation pipeline
-   - Create visualization tools
-   - Implement comparison framework
+2. **Fine-tuning Preparation**:
+   - Update training dataset with new captions
+   - Configure training parameters
+   - Set up evaluation metrics
+   - Prepare monitoring system
+
+3. **Custom Pipeline Development**:
+   - Design architecture for custom training
+   - Implement monitoring and visualization
+   - Add advanced hyperparameter control
+   - Create evaluation framework
 
 ## Active Decisions and Considerations
-1. **Training Configuration**: 
-   - Need to determine optimal LoRA rank
-   - Need to set appropriate learning rates
-   - Need to define batch sizes and gradient accumulation
-   - Need to establish training schedule
+1. **Caption Generation**: 
+   - Using Gemini API with genre-aware prompting
+   - Multiple API keys for rate limit management
+   - Batch processing with checkpoints
+   - Automatic retry for failed captions
 
-2. **Resource Management**: 
-   - Plan for efficient GPU utilization
-   - Set up checkpointing strategy
-   - Configure memory optimization
-   - Implement gradient checkpointing if needed
+2. **Data Management**: 
+   - JSON-based intermediate storage
+   - Checkpoint system for reliability
+   - Progress tracking and logging
+   - Error handling and recovery
 
-3. **Quality Monitoring**:
-   - Define evaluation frequency
-   - Set up progress tracking
-   - Implement sample generation pipeline
-   - Create visualization dashboard
+3. **Next Training Phase**:
+   - Evaluate caption impact on training
+   - Consider trigger word implementation
+   - Plan for extended training duration
+   - Design evaluation metrics
 
-4. **Documentation Requirements**:
-   - Document training procedures
-   - Create evaluation guidelines
-   - Prepare model cards
-   - Update progress tracking 
+4. **Documentation Updates**:
+   - Document captioning pipeline
+   - Update training procedures
+   - Maintain progress tracking
+   - Record best practices 
